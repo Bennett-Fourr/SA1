@@ -1,0 +1,78 @@
+[+] Containers:
+ |- [+] Container: /Game/VehicleExampleMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0FBA672E43A9A36F0DBE3F90A18C3E03 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1991534161 Label:AI4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-120003.507 Y=571949.350 Z=72315.341), Max=(X=-119532.406 Y=572210.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:1DE36F4E4AC32E528F5DAFB6D70A6F96 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_B04F130B0757166F01_1274790247 Label:AI SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1059.350 Y=587802.406 Z=72315.341), Max=(X=1320.650 Y=588273.507 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3AEA29B84D377FECD3E710A7D09984C3 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1986674159 Label:AI2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-40133.507 Y=416689.350 Z=72315.341), Max=(X=-39662.406 Y=416950.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:42D4AE7143EDCB8C882EA1A7C08118BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B04F130B0757116F01_1437909369 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-181712.500 Y=-327170.000 Z=72230.000), Max=(X=204712.500 Y=672830.000 Z=72330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:4964AB72466E332BF41DC181FC78EAE2 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1989193160 Label:AI3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-85873.507 Y=396819.350 Z=72315.341), Max=(X=-85402.406 Y=397080.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:62B351BB423B9EABD5AE849DD1DFC408 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=720.000), Max=(X=-12600.000 Y=-12600.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:6A1C7CE945AD720405A2B8A0CDC31EEA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6B337CAD4C563049716FB399D124EC3D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=590.000), Max=(X=-12600.000 Y=-12600.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:A5D6E6BB46BAC15E6D356990E1F7F480 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:A6ABCCAF4857AE8E40E6228F0FECD123 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_0 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=-25200.000 Y=-25200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Landscape FolderGuid:912F765E4714A1DB296369A3E4390900
+ |   |   |- Guid:AB3D653A48C4F01FAA4F39A2698C3518 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=920.000), Max=(X=-12600.000 Y=-12600.000 Z=920.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:C500B83C4D33199CBAF65FB268E8C17D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_B04F130B0757116F01_1490146370 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2950.000 Y=588210.000 Z=72400.000), Max=(X=3030.000 Y=588290.000 Z=72584.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CA3C0F6345B2DA9E299ED5BEE611655B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18200.000 Y=-12650.000 Z=-6950.000), Max=(X=-18200.000 Y=-12650.000 Z=-6950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:CB6173E145DC0CF3A33B8A82A0FA1115 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1993979162 Label:AI5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-132933.507 Y=449759.350 Z=72315.341), Max=(X=-132462.406 Y=450020.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D5CE1A3946843967B0D1A493A9ED5CF6 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=300.000), Max=(X=-12400.000 Y=-12400.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- Guid:FC6CA9734D1DDE4CE55751A1E8145C25 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_B04F130B0757166F01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:A5D6E6BB46BAC15E6D356990E1F7F480 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:FC6CA9734D1DDE4CE55751A1E8145C25 BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_B04F130B0757166F01-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:62B351BB423B9EABD5AE849DD1DFC408 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=720.000), Max=(X=-12600.000 Y=-12600.000 Z=720.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:6B337CAD4C563049716FB399D124EC3D BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=590.000), Max=(X=-12600.000 Y=-12600.000 Z=590.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:AB3D653A48C4F01FAA4F39A2698C3518 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=920.000), Max=(X=-12600.000 Y=-12600.000 Z=920.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:A6ABCCAF4857AE8E40E6228F0FECD123 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_0 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=-25200.000 Y=-25200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Landscape FolderGuid:912F765E4714A1DB296369A3E4390900
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:6A1C7CE945AD720405A2B8A0CDC31EEA BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:D5CE1A3946843967B0D1A493A9ED5CF6 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=300.000), Max=(X=-12400.000 Y=-12400.000 Z=500.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:1DE36F4E4AC32E528F5DAFB6D70A6F96 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_B04F130B0757166F01_1274790247 Label:AI SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1059.350 Y=587802.406 Z=72315.341), Max=(X=1320.650 Y=588273.507 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:C500B83C4D33199CBAF65FB268E8C17D BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_B04F130B0757116F01_1490146370 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2950.000 Y=588210.000 Z=72400.000), Max=(X=3030.000 Y=588290.000 Z=72584.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:CA3C0F6345B2DA9E299ED5BEE611655B BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-18200.000 Y=-12650.000 Z=-6950.000), Max=(X=-18200.000 Y=-12650.000 Z=-6950.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:602030AD4CB26C050EF7B98FCA62FBCA
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:42D4AE7143EDCB8C882EA1A7C08118BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_B04F130B0757116F01_1437909369 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-181712.500 Y=-327170.000 Z=72230.000), Max=(X=204712.500 Y=672830.000 Z=72330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:3AEA29B84D377FECD3E710A7D09984C3 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1986674159 Label:AI2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-40133.507 Y=416689.350 Z=72315.341), Max=(X=-39662.406 Y=416950.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:4964AB72466E332BF41DC181FC78EAE2 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1989193160 Label:AI3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-85873.507 Y=396819.350 Z=72315.341), Max=(X=-85402.406 Y=397080.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:0FBA672E43A9A36F0DBE3F90A18C3E03 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1991534161 Label:AI4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-120003.507 Y=571949.350 Z=72315.341), Max=(X=-119532.406 Y=572210.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:CB6173E145DC0CF3A33B8A82A0FA1115 BaseClass:/Game/AI/AI.AI_C NativeClass:/Script/ChaosVehicles.WheeledVehiclePawn Name:AI_C_UAID_A4BB6D4F38B6546F01_1993979162 Label:AI5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-132933.507 Y=449759.350 Z=72315.341), Max=(X=-132462.406 Y=450020.650 Z=72451.318) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/VehicleExampleMap
+----------------------------------------------------------------------------------------------------------------
+VehicleExampleMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 28 
+
+----------------------------------------------------------------------------------------------------------------
+VehicleExampleMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
